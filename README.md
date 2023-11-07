@@ -1,4 +1,4 @@
-# Data-Analyst-Associate-Practical-Exam-Submission
+# Data Analyst Associate Practical Exam Submission
 
 ## Requirements
 - Postgresql 15
