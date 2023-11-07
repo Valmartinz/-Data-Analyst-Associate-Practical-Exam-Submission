@@ -1,9 +1,0 @@
-DATES NULL
-
-CATEGORY 25 NULLS '-'
-ANIMAL 0 NULL
-SIZE 0 NULL 
-PRICE 150 NULLS 'UNLISTED'
-SALES 0 NULLS
-rating 150 nulls 'NA'
-repeat_purchase 142 nulls o negatives
